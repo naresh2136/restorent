@@ -1,1 +1,15 @@
 
+RESTID, PRICE, ITEM
+1, 4.00, burger
+2, 2.00, dosa
+2, 5.00, burger
+2, 6.50, coke
+5, 8.00, upma
+2, 0.50, tea
+2, 0.50, coffee
+3, 0.50, upma
+4, 0.50, burger
+1, 6.00, upma
+1, 4.00, dosa
+2, 1.00, upma
+5, 6.00, dosa
